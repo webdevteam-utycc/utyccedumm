@@ -31,7 +31,7 @@ include("config/conf.php");
             display: block !important;
          }
       </style>
-    <title>UT-YCC | University of Technology (Yatanarpon Cyber City)</title>
+    <title>1UT-YCC | University of Technology (Yatanarpon Cyber City)</title>
     
   </head>
   <body>
