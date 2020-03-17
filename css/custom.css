@@ -192,6 +192,13 @@ nav.nav-fixed {
   padding-left: 20px;
 }
 
+.vision-section {
+  background: #2CA8FF;
+  color: #fff;
+}
+.academic-section .flex-item span{
+  color: #2CA8FF;
+}
 .headProf-section {
   background: #2CA8FF;
   color: #fff;
@@ -207,6 +214,19 @@ nav.nav-fixed {
   background: #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
+.certificate-section {
+  background-image: url('../img/bg-certificate.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+.certificate-section .p-7{
+  padding: 0px 70px;
+}
+.certificate-section .iso-date{
+    font-size: 18px;
+    padding: 0px 50px;
+}
 
 .news-section .flex-item {
   transform: scale(0,0);
@@ -219,6 +239,7 @@ nav.nav-fixed {
   background: #444;
   color: #fff;
 }
+
 
 .go-to-up {
   position: fixed;
@@ -467,24 +488,20 @@ nav.nav-fixed {
 }
 #picturePage .view-relate {
   position: absolute;
-  background: #000;
+  background: #18ce0f;
   color: #fff;
-  font-size: 16px;
-  bottom: 0px;
-  right: 0px;
-  width: 263px;
-  height: 50px;
-  line-height: 50px;
+  top: 5px;
+  right: 5px;
+  width: 30px;
+  height: 30px;
   text-align: center;
-  vertical-align: center;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  opacity: 0.6;
+  line-height: 30px;
+  border-radius: 10px;
   cursor: pointer;
   transition: 0.2s;
 }
 #picturePage .view-relate:hover {
-  opacity: 0.8;
+  opacity: 0.5;
 }
 #aboutPage .page-cover {
   background-image: url('../stock-img/pagecover.jpg');
@@ -532,7 +549,13 @@ nav.nav-fixed {
   .fi-md-12x {
     margin-bottom: 20px;
   }
+  .text-md-center{
+    text-align: center;
+  }
+  
+  
 }
+
 @media (max-width: 768px) {
   #eventPage .event-container .event-date h1, #eventPage .event-container .event-date h3 {
     line-height: 1.25em;
@@ -557,9 +580,68 @@ nav.nav-fixed {
   .hero-title h2 {
     font-size: 20px;
   }
-  
+  .certificate-section{
+    text-align: center;
+    background-size: 100% 100%;
+  }
   .footer-section input[type="submit"] {
       margin-top: 20px;
+  }
+}
+@media (max-width: 375px) {
+  .certificate-section{
+    text-align: center;
+    background-size: 100% 100%;
+  }
+  .certificate-section h2{
+    font-size: 1.5rem;
+    margin-top: -20px;
+  }
+  .certificate-section .p-7{
+    padding: 0px 20px;
+  }
+
+}
+@media (max-width: 414px) {
+  
+  .certificate-section{
+    text-align: center;
+    background-size: 100% 100%;
+  }
+  .certificate-section h2{
+    font-size: 1.5rem;
+    margin-top: -20px;
+  }
+  .certificate-section .p-7{
+    padding: 0px 20px;
+  }
+}
+@media (max-width: 320px) {
+  
+  .certificate-section{
+    text-align: center;
+    background-size: 100% 100%;
+  }
+  .certificate-section h2{
+    font-size: 1.5rem;
+    margin-top: -20px;
+  }
+  .certificate-section .p-7{
+    padding: 0px 20px;
+  }
+}
+@media (max-width: 1024px) {
+  
+  .certificate-section{
+    text-align: center;
+    background-size: 100% 100%;
+  }
+  .certificate-section h2{
+    font-size: 1.8rem;
+   
+  }
+  .certificate-section .p-7{
+    padding: 0px 20px;
   }
 
 }

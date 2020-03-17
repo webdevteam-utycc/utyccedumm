@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/custom-icon.css">
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/teacher-profile.css">
     <title>UT-YCC | Faculty / ICT / IST</title>
   </head>
   <body id="istPage">
@@ -62,37 +63,71 @@
           <span class="ui-icons ui-1_send icons-size-36"></span>
           <h2>Department of Information Science and Technology</h2>
           <p class="text-justify">Department of Information Science is recognized as one of the most prominent departments for theoretical and methodological reflection of computer science and information practice. The department is preparing the future generations of information specialists for managing communication flows, support of knowledge economy and handling the information explosion. Highly qualified instructors are exploring and doing research that contributes to the society by collaborating with Master and Ph.D. candidates.<br><br>The department encourages instructors’ involvement within the contemporary business world to enhance the quality of classroom instruction and contribute to students’ learning. After completing the study, students are capable of joining multinational companies in IT industry.</p>
-
+        </div>
+        	<!--start teacher profile -->
+	      <div class="container">
           <div class="flex-box">
-            <div class="flex-item fi-lg-6x fi-md-12x fi-sm-12x">
+            <div class="flex-item fi-lg-6x fi-md-6x fi-sm-12x">
               <div class="container-fluid">
-                <h3>Vision</h3>
-                <hr class="thin">
-                <ul>
-                  <li>To become intellectual professional, practitioners and future leaders of emerging information technologies</li>
-                </ul>
+                  <!-- profile card -->
+                <div class="pf_card">
+                  <!--profile card left container -->
+                  <div class="pf_left_div">
+                    <p class="pf_major_name">ICT</p>
+                    <img class="pf_img" src="img/profile1.png" />
+                  </div><!--end profile card left container -->
 
-                <h3>Mission</h3>
-                <hr class="thin">
-                <ul>
-                  <li>To train the students to become innovators with best standard of theoretical and practical aspects of emerging information technology and a user community</li>
-                  <li>To provide the students in order to solve the challenging real-world problems with the effectively use of the most innovative technology</li>
-                  <li>To provide wide access of learning environment with the application of ICT</li>
-                </ul>
+                  <div class="pf_sprator"></div><!--profile sprator -->
+
+                  <!-- profile card right container -->
+                  <div class="pf_right_div">
+                    <p class="pf_name">Dr. Hnin Aye Thant</p>
+                    <p class="pf_lvl">Professor/Head</p>
+
+                    <p class="pf_ph">09-693157756</p>
+                    <p class="pf_mail">hninayethant123@gmail.com</p>
+                  </div><!-- profile card right container -->
+
+                  <!-- profile card f0oter -->
+                  <div class="pf_footer">
+                    <p class="pf_footer_txt">UTYCC</p>
+                  </div><!-- end profile card footer -->
+                </div>
+                  <!--end profile card-->
               </div>
             </div>
-            <div class="flex-item fi-lg-6x fi-md-12x fi-sm-12x">
+            <div class="flex-item fi-lg-6x fi-md-6x fi-sm-12x">
               <div class="container-fluid">
-                <h3>Motto</h3>
-                <hr class="thin">
-                <ul>
-                  <li>To Build a Better Society Through ICT</li>
-                </ul>
+                  <!-- profile card -->
+                <div class="pf_card">
+                  <!--profile card left container -->
+                  <div class="pf_left_div">
+                    <p class="pf_major_name">ICT</p>
+                    <img class="pf_img" src="img/profile1.png" />
+                  </div><!--end profile card left container -->
+
+                  <div class="pf_sprator"></div><!--profile sprator -->
+
+                  <!-- profile card right container -->
+                  <div class="pf_right_div">
+                    <p class="pf_name">Dr. Hnin Aye Thant</p>
+                    <p class="pf_lvl">Professor/Head</p>
+
+                    <p class="pf_ph">09-693157756</p>
+                    <p class="pf_mail">hninayethant123@gmail.com</p>
+                  </div><!-- profile card right container -->
+
+                  <!-- profile card f0oter -->
+                  <div class="pf_footer">
+                    <p class="pf_footer_txt">UTYCC</p>
+                  </div><!-- end profile card footer -->
+                </div>
+                  <!--end profile card-->
               </div>
             </div>
           </div>
         </div>
-      </div>
+        <!-- end teacher profil -->
       <div class="section footer-section">
         <div class="container">
           <div class="flex-box">

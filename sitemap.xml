@@ -4,54 +4,69 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 <url>
-  <loc>https://www.utycc.edu.mm/</loc>
-  <lastmod>2018-12-29T19:24:03+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>https://utycc.edu.mm/</loc>
 </url>
 <url>
-  <loc>https://www.utycc.edu.mm/academic.php</loc>
-  <lastmod>2018-12-29T19:24:03+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://utycc.edu.mm/index.php</loc>
 </url>
 <url>
-  <loc>https://www.utycc.edu.mm/faculty.php</loc>
-  <lastmod>2018-12-29T19:24:03+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://utycc.edu.mm/login.php</loc>
 </url>
 <url>
-  <loc>https://www.utycc.edu.mm/research.php</loc>
-  <lastmod>2018-12-29T19:24:03+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://utycc.edu.mm/academic.php</loc>
 </url>
 <url>
-  <loc>https://www.utycc.edu.mm/center.php</loc>
-  <lastmod>2018-12-29T19:24:03+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://utycc.edu.mm/faculty.php</loc>
 </url>
 <url>
-  <loc>https://www.utycc.edu.mm/news.php</loc>
-  <lastmod>2018-12-29T19:24:03+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://utycc.edu.mm/research.php</loc>
 </url>
 <url>
-  <loc>https://www.utycc.edu.mm/entranceList.php</loc>
-  <lastmod>2018-12-29T19:24:03+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://utycc.edu.mm/center.php</loc>
 </url>
 <url>
-  <loc>https://www.utycc.edu.mm/picture.php</loc>
-  <lastmod>2018-12-29T19:24:03+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://utycc.edu.mm/event.php</loc>
 </url>
 <url>
-  <loc>https://www.utycc.edu.mm/video.php</loc>
-  <lastmod>2018-12-29T19:24:03+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://utycc.edu.mm/news.php</loc>
 </url>
 <url>
-  <loc>https://www.utycc.edu.mm/about.php</loc>
-  <lastmod>2018-12-29T19:24:03+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://utycc.edu.mm/examResult.php</loc>
+</url>
+<url>
+  <loc>https://utycc.edu.mm/entranceList.php</loc>
+</url>
+<url>
+  <loc>https://utycc.edu.mm/picture.php</loc>
+</url>
+<url>
+  <loc>https://utycc.edu.mm/video.php</loc>
+</url>
+<url>
+  <loc>https://utycc.edu.mm/about.php</loc>
+</url>
+<url>
+  <loc>https://utycc.edu.mm/16_17_result_list.html</loc>
+</url>
+<url>
+  <loc>https://utycc.edu.mm/awarding.html</loc>
+</url>
+<url>
+  <loc>https://utycc.edu.mm/projectShow.html</loc>
+</url>
+<url>
+  <loc>https://utycc.edu.mm/acmIcpc.html</loc>
+</url>
+<url>
+  <loc>https://utycc.edu.mm/mcpa.html</loc>
+</url>
+<url>
+  <loc>https://utycc.edu.mm/redcrossActivity.html</loc>
+</url>
+<url>
+  <loc>https://utycc.edu.mm/wasoethingan.html</loc>
 </url>
 </urlset>

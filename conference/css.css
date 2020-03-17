@@ -1,0 +1,486 @@
+
+
+body{
+}
+
+
+/* header section */
+header{
+    position: relative;
+
+    width: 100%;
+    margin: 0 auto;
+    background:url("img/utycc3.png");
+    background-repeat: no-repeat;
+
+
+}
+
+.footer-section{
+    background:#444;
+    color:#fff;
+}
+
+.img_utycc{
+    float: left;
+    margin: 30px auto;
+    padding: 0px 20px;
+}
+
+.header_content{
+    float: left;
+    line-height: 2rem;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.header_content p{
+    color: #E6E6E6;
+    font-weight: 600;
+    text-shadow: 2px 2px 2px #000000;
+}
+
+.header_ttl{
+    font-size: 20px;
+}
+
+.header_sub_txt{
+    font-size: 20px;
+}
+
+.clr{
+    clear: both;
+}
+
+.img_conference{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width:16%;
+    padding: 0px 20px;
+}
+/* End header section */
+/* Start Conference division */
+.conference_content{
+    width:100%;
+    display: flex;
+    margin: 0 auto;
+}
+
+.conference_content .con_field{
+    width: 80%;
+    background-color: #F5F7FA;
+    padding-bottom: 50px;
+}
+
+.conference_content .con_committee{
+    width: 20%;
+    background-color:#F5F7FA;
+    border-left: 1px solid #ECEEEF;
+    padding-bottom: 50px;
+}
+
+.con_ttl{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #3F70BF;
+    margin: 20px auto;
+    font-weight: 600;
+    padding: 0px 30px;
+}
+
+.con_txt{
+    font-size: 18px;
+    line-height: 1.7em;
+    padding: 0px 30px;
+    text-align:justify; 
+    margin: 0px auto;
+    text-indent: 50px;
+    
+}
+
+.field_container{
+    display: flex;
+    
+}
+
+.topic_container{
+    width: 1024px;
+    display: table;
+    margin: 20px auto;
+    border: 1px solid #9A9A9A;
+    border-collapse:  collapse;
+    box-shadow: 2px 2px 2px 2px #eceeef;
+}
+.topic_one{
+    width: 512px;
+    padding: 0% 8%;
+    display: table-row;
+    border: 1px solid #9A9A9A;
+}
+
+.topic_one ul{
+    line-height: 2rem;
+}
+
+.topic_one ul > li {
+    font-size: 18px;
+    opacity: 500;
+}
+
+.l_ycc{
+    display: block;
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px solid #9A9A9A;
+    margin: 10px auto;
+    opacity: 0.1;
+}
+
+/* Important Dates and registration fees */
+.topic_txt{
+    display: table-cell;
+    font-size:  18px;
+    line-height: 2rem;
+    margin-left: 0px;
+    padding: 0px 20px;
+}
+
+.topic_important{
+    color:#FF0000;
+    font-weight: 550;
+    font-size:  20px;
+}
+
+.topic_reg{
+    color:  #3F70BF;
+    font-weight: 550;
+    font-size:  20px;
+}
+/* End conference division */
+
+.committee_ttl{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #3F70BF;
+    margin: 20px auto;
+    font-weight: 600;
+    text-align: center;
+    border-bottom:  1px solid #ECEEEF;
+    padding-bottom: 20px;
+}
+.committee_container ul li{
+    line-height: 4rem;
+    color: #000;
+    opacity: 0.8;
+    font-size: 18px;
+    list-style: none;
+    color: #2039CC;
+}
+
+.committee_txt{
+    line-height: 1.5rem !important;
+}
+/*  */
+
+.team_container{
+    margin: 80px auto 50px;
+}
+
+.team_container li{
+    list-style: none;
+}
+
+.team_container li a{
+    color: #2039CC;
+    opacity: 0.8;
+    text-decoration: none;
+    
+}
+
+.team_container li a:hover{
+    color: #111E6C;
+    opacity: 0.8;
+}
+
+.contact_ttl{
+    font-size: 20px;
+    color: #3F70BF;
+    margin: 20px auto;
+    font-weight: 600;
+    text-align: center;
+    border-bottom:  1px solid #ECEEEF;
+    padding-bottom: 20px;
+}
+
+
+.contact_txt p{
+    text-align: center;
+    font-size: 16px;
+    line-height: 1rem;
+    padding:0px 10px;
+}
+/* Organization Committee */
+.org_container, .tech_container{
+    font-size: 18px;
+    line-height: 2rem;
+}
+.org_container > ul >li {
+    list-style-type: circle;
+}
+
+.tech_container dl{
+    padding: 0px 60px;
+    line-height: 3rem;
+}
+
+.tech_container dl > dt{
+    font-weight: 600;
+  
+}
+
+
+.con_committee_reps{
+    display:none;
+}
+
+.topic_sp{
+    display: none;
+}
+
+.topic_pc{
+    display: block;
+}
+@media only screen and (max-width: 414px) {
+  /* For phone */
+    header{
+        width:100%;
+        height:150px;
+    }
+        .img_utycc{
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 20%;
+            padding: 0% 2%;
+    }
+    .header_content{
+        line-height: 1rem;
+    }
+    .header_ttl{
+        font-size: 14px;
+        margin-top: -10px;
+    }
+    .header_sub_txt{
+        font-size: 13px;
+        margin:0.5px;
+    }
+    .img_conference{
+        width: 20%;
+        margin: 5% auto;
+        padding: 0% 2%;
+    }
+   
+    .field_container{
+    display: inline-block;
+    
+    }
+    .topic_one ul{
+        margin-top:-5px;
+    }
+    .conference_content{
+        width: 100%;
+    }
+    .con_ttl{
+    font-size: 12px;
+    margin: 15px auto;
+    padding: 0px 25px;
+    }
+    .con_txt{
+    font-size: 11px;
+    line-height: 1.7em;
+    padding: 0px 10px;
+    text-align:justify; 
+    margin: 0px auto;
+    text-indent: 30px;
+    }
+    .conference_content .con_field{
+        width: 100%;
+            }
+    .topic_one ul > li {
+        font-size: 11px;
+        opacity: 500;
+    }
+
+    .topic_container{
+        width: 100%;
+        display: table;
+        margin: 0px auto;
+    }
+	
+	 .topic_sp{
+        display: block;
+    }
+
+    .topic_pc{
+        display: none;
+    }
+    .topic_txt,.topic_important,.topic_reg{
+        font-size: 11px;
+    }
+    .conference_content .con_committee{
+        display: none;
+    }
+    .con_committee_reps{
+        display:block;
+        background-color: #F5F7FA;
+    }
+    .committee_container ul li{
+        font-size:13px;
+        line-height: 2rem;
+    }
+    .committee_ttl{
+        font-size:15px;
+        padding: 20px 0px;
+    }
+    .committee_txt{
+        line-height: 1rem !important;
+        font-size:16px;
+    }
+    .team_container{
+        margin: 20px auto 20px;
+    }
+    .contact_ttl{
+        font-size: 15px;
+        margin: 0px auto;
+        font-weight: 600;
+       margin: 15px auto;
+}
+
+    .contact_txt p{
+        text-align: center;
+        font-size: 12px;
+        line-height: 1.5rem;
+        padding:0px 10px;
+}
+.org_container, .tech_container{
+    font-size:12px;
+}
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 415px ) {
+  /* For tablet and phone landscape */
+    header{
+        width:100%;
+        height:200px;
+    }
+        .img_utycc{
+        position : absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 20%;
+        margin: 0;
+        padding: 0% 2%;
+
+    }
+    .header_content{
+        line-height: 1rem;
+    }
+    .header_ttl{
+        font-size: 15px;
+        margin-top: -4px;
+    }
+    .header_sub_txt{
+        font-size: 14px;
+        margin:0.5px;
+    }
+    .img_conference{
+        width: 22%;
+        padding: 0% 2%;
+    }
+   
+
+    .conference_content{
+        width: 100%;
+    }
+    .con_ttl{
+    font-size: 14px;
+    margin: 13px auto;
+    padding: 0px 25px;
+    }
+    .con_txt{
+    font-size: 13px;
+    line-height: 1.7em;
+    padding: 0px 10px;
+    text-align:justify; 
+    margin: 0px auto;
+    text-indent: 30px;
+    }
+    .conference_content .con_field{
+        width: 100%;
+            }
+    .topic_one ul > li {
+        font-size: 13px;
+        opacity: 500;
+    }
+    .topic_container{
+        width: 100%;
+        display: table;
+        margin: 20px auto;
+        box-shadow: 2px 2px 2px 2px #ECEEEF;
+    }
+	
+	 .topic_sp{
+        display: block;
+    }
+
+    .topic_pc{
+        display: none;
+    }
+    .topic_txt,.topic_important,.topic_reg{
+        font-size: 13px;
+    }
+    .conference_content .con_committee{
+        display: none;
+    }
+    .con_committee_reps{
+        display:block;
+    }
+    .committee_container ul li{
+        font-size:13px;
+        line-height: 2rem;
+        margin:auto;
+
+    }
+    .committee_ttl{
+        font-size:15px;
+    }
+    .committee_txt{
+        line-height: 1rem !important;
+        font-size:14px;
+    }
+    .team_container{
+        margin: 20px auto 20px;
+    }
+    .contact_ttl{
+        font-size: 17px;
+        margin: 0px auto;
+        font-weight: 600;
+        padding: 0px 5px;
+}
+
+    .contact_txt p{
+        text-align: center;
+        font-size: 13px;
+        line-height: 1.5rem;
+        padding:0px 10px;
+}
+.org_container, .tech_container{
+    font-size:13px;
+}
+}

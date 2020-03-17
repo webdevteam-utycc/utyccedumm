@@ -1,5 +1,4 @@
 $(document).ready(function () {
-
   $('nav .parent').click(function (event) {
     event.stopPropagation();
     $(this).children('.submenu-item-group').fadeToggle(100);
