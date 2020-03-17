@@ -1,0 +1,3 @@
+User-Agent: *
+
+Sitemap: https://www.utycc.edu.mm/sitemap.xml

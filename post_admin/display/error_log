@@ -1,0 +1,12 @@
+[20-Apr-2018 05:38:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'utycc_tdbusr'@'localhost' (using password: YES) in /home/utycc/public_html/vote/config/conf.php:2
+Stack trace:
+#0 /home/utycc/public_html/vote/config/conf.php(2): PDO->__construct('mysql:host=loca...', 'utycc_tdbusr', 'yQ&(pknsmwol')
+#1 /home/utycc/public_html/vote/display/index.php(2): include('/home/utycc/pub...')
+#2 {main}
+  thrown in /home/utycc/public_html/vote/config/conf.php on line 2
+[20-Apr-2018 05:39:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'utycc_tdbusr'@'localhost' (using password: YES) in /home/utycc/public_html/vote/config/conf.php:2
+Stack trace:
+#0 /home/utycc/public_html/vote/config/conf.php(2): PDO->__construct('mysql:host=loca...', 'utycc_tdbusr', 'yQ&(pknsmwol')
+#1 /home/utycc/public_html/vote/display/index.php(2): include('/home/utycc/pub...')
+#2 {main}
+  thrown in /home/utycc/public_html/vote/config/conf.php on line 2

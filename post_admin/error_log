@@ -1,0 +1,15 @@
+[28-Nov-2018 12:22:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/utycc/public_html/post_admin/post.php on line 101
+[28-Nov-2018 12:22:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/utycc/public_html/post_admin/post.php on line 111
+[28-Nov-2018 12:30:28 UTC] PHP Warning:  unlink(../images/utycc.jpg): No such file or directory in /home/utycc/public_html/post_admin/delete_post.php on line 21
+[28-Nov-2018 12:30:28 UTC] PHP Warning:  unlink(../thumbs/utycc.jpg): No such file or directory in /home/utycc/public_html/post_admin/delete_post.php on line 22
+[28-Nov-2018 12:32:22 UTC] PHP Warning:  unlink(../images/utycc.jpg): No such file or directory in /home/utycc/public_html/post_admin/delete_post.php on line 21
+[28-Nov-2018 12:32:22 UTC] PHP Warning:  unlink(../thumbs/utycc.jpg): No such file or directory in /home/utycc/public_html/post_admin/delete_post.php on line 22
+[28-Nov-2018 12:34:04 UTC] PHP Warning:  unlink(../images/utycc.jpg): No such file or directory in /home/utycc/public_html/post_admin/delete_post.php on line 21
+[28-Nov-2018 12:34:04 UTC] PHP Warning:  unlink(../thumbs/utycc.jpg): No such file or directory in /home/utycc/public_html/post_admin/delete_post.php on line 22
+[28-Nov-2018 12:35:18 UTC] PHP Warning:  unlink(../images/utycc.jpg): No such file or directory in /home/utycc/public_html/post_admin/delete_post.php on line 21
+[28-Nov-2018 12:35:18 UTC] PHP Warning:  unlink(../thumbs/utycc.jpg): No such file or directory in /home/utycc/public_html/post_admin/delete_post.php on line 22
+[29-Nov-2018 19:15:23 Asia/Rangoon] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/utycc/public_html/post_admin/post.php on line 100
+[29-Nov-2018 19:15:23 Asia/Rangoon] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/utycc/public_html/post_admin/post.php on line 106
+[29-Nov-2018 19:15:23 Asia/Rangoon] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/utycc/public_html/post_admin/post.php on line 119
+[29-Nov-2018 19:15:23 Asia/Rangoon] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/utycc/public_html/post_admin/post.php on line 131
+[29-Nov-2018 19:15:23 Asia/Rangoon] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/utycc/public_html/post_admin/post.php on line 132
