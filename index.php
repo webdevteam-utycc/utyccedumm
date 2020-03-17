@@ -25,7 +25,7 @@ include "config/conf.php";
     <link rel="stylesheet" href="css/custom-icon.css">
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="css/custom.css">
-    <title>UT-YCC | University of Technology (Yatanarpon Cyber City)</title>
+    <title>1UT-YCC | University of Technology (Yatanarpon Cyber City)</title>
   </head>
   <body>
     <div class="loader">
