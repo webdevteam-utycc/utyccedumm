@@ -31,7 +31,7 @@ include("config/conf.php");
             display: block !important;
          }
       </style>
-    <title>1UT-YCC | University of Technology (Yatanarpon Cyber City)</title>
+    <title>UT-YCC | University of Technology (Yatanarpon Cyber City)</title>
     
   </head>
   <body>
@@ -77,12 +77,12 @@ include("config/conf.php");
             </div>
             <div class="flex-item fi-lg-6x fi-md-6x fi-sm-12x right animate5">
               <div class="container-fluid">
-              <p class="text-justify">University of Technology (Yatanarpon Cyber City) namely UTYCC is a speedy developing learning community that has been recognized as one of the most Myanmar’s technological institutions of higher education.
+              <p class="text-justify">University of Technology (Yatanarpon Cyber City)  is a speedy developing learning community that has been recognized as one of the most Myanmar’s technological institutions of higher education.
               Although it is founded in 2010, UTYCC becomes very well-known both locally and globally within a short period of time. 
               There are four main faculties in our university: Faculty of Information & Communication Technology, Faculty of Electronic Engineering, Faculty of Precision Engineering and Faculty of Materials Engineering.
               As an international collaboration program, UTYCC is a member institute of ASEAN Cyber University Project. E-learning center was established with the assistance of Korea International Cooperation Agency (KOICA) in July 2012.
-              </p><br><br><br>
-              <button onclick="window.location='about.php'" class="btn btn-primary btn-round" type="button" name="button">Learn More</button>
+              </p>
+              <button onclick="window.location='about.php'" class="btn btn-primary btn-round sp-only" type="button" name="button">Learn More</button>
               </div>
             </div>
           </div>
@@ -175,22 +175,20 @@ include("config/conf.php");
       </div>
       <div class="section certificate-section">
         <div class="container">
-          <h2 class="text-dark text-center">Certified Undergraduate Engineering Education and Training Services</h2><br><br>
+          <h2 class=" text-center">Certified Undergraduate Engineering Education and Training Services</h2><br><br>
           <div class="flex-box">
             <div class="flex-item fi-lg-9x fi-md-9x fi-sm-12x">
-              <p class="text-justify p-7">The standard is used by organizations to demonstrate 
-                    their ability to  provide products and services
-                    that meet customer and regulatory requirements and to demonstrate continuous improvement.
-                    he standard is used by organizations to demonstrate 
-                    their ability to  provide products and services
-                    that meet customer and regulatory requirements and to demonstrate continuous improvement.<br><br>
-                    
-              </p>
+              <div class="container-fluid">
+                <p class="text-justify p-7">In order to be certified to the ISO 9001 standard, a company must follow the requirements set forth in the ISO 9001 Standard. The standard is used by organizations to demonstrate their ability to consistently provide products and services that meet customer and regulatory requirements and to demonstrate continuous improvement.<br><br>
+                </p>
+              </div>
             </div>
             <div class="flex-item fi-lg-3x fi-md-3x fi-sm-12x">
-              <img  class="open-light-box" src="thumbs/img-certificate.png"
-                         data="images/img-certificate.png" style="border: 1px solid black;" >
-              <p class=" iso-date">ISO 9001:2015</p>
+              <div class="container-fluid">
+                <img  class="open-light-box" src="thumbs/img-certificate.png"
+                          data="images/img-certificate.png" style="border: 1px solid black;" >
+                <p class=" iso-date">ISO 9001:2015</p>
+              </div>
             </div>
           </div>
         </div>

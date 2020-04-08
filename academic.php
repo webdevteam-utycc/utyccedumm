@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="css/custom-icon.css">
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/css.css">
     <title>UT-YCC | Academic</title>
   </head>
   <body id="academicPage">
@@ -32,6 +33,9 @@
           </div>
         </div>
       </div>
+      <?php 
+      include('academic_graduated_students/index.php');
+      ?>
       <div class="section">
         <div class="container">
           <p class="text-justify">The University aims to provide higher quality education. A wide range of undergraduate and postgraduate degree programmes are offered in this university.</p>
@@ -77,6 +81,7 @@
           </div>
         </div>
       </div>
+    
       <?php
   include('includes/footer.php');
   ?>
@@ -89,4 +94,5 @@
   </body>
   <script src="js/jquery.js" charset="utf-8"></script>
   <script src="js/animate.js" charset="utf-8"></script>
+  <script src="js/js.js" charset="utf-8"></script>
 </html>

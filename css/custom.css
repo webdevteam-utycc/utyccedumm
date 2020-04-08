@@ -220,12 +220,17 @@ nav.nav-fixed {
   background-position: center;
   background-size: 100% 100%;
 }
+
+hr.mb-4{
+  margin: 15px auto;
+}
 .certificate-section .p-7{
   padding: 0px 70px;
 }
 .certificate-section .iso-date{
     font-size: 18px;
     padding: 0px 50px;
+
 }
 
 .news-section .flex-item {
