@@ -36,8 +36,10 @@
       <?php 
       include('academic_graduated_students/index.php');
       ?>
+      <br><br>
       <div class="section">
         <div class="container">
+       
           <p class="text-justify">The University aims to provide higher quality education. A wide range of undergraduate and postgraduate degree programmes are offered in this university.</p>
           <div class="flex-box">
             <div class="flex-item fi-lg-4x fi-md-12x fi-sm-12x">

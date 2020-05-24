@@ -133,12 +133,12 @@ $(document).ready(function () {
     $('html,body').animate({ scrollTop: 0}, 'slow');
   });
 
-  var color = ['cover1', 'cover2', 'cover3'];
+  var color = ['cover1', 'cover2', 'cover3', 'cover4'];
   var i = 1;
   setInterval(function(){
     $('.hero-img').css('background-image', 'url(stock-img/'+color[i]+'.jpg)');
     i++;
-    if(i == 3) {
+    if(i == 4) {
       i=0;
     }
   }, 7500);

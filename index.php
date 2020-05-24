@@ -82,7 +82,7 @@ include("config/conf.php");
               There are four main faculties in our university: Faculty of Information & Communication Technology, Faculty of Electronic Engineering, Faculty of Precision Engineering and Faculty of Materials Engineering.
               As an international collaboration program, UTYCC is a member institute of ASEAN Cyber University Project. E-learning center was established with the assistance of Korea International Cooperation Agency (KOICA) in July 2012.
               </p>
-              <button onclick="window.location='about.php'" class="btn btn-primary btn-round sp-only" type="button" name="button">Learn More</button>
+              <button onclick="window.location='about.php'" class="btn btn-primary btn-round" type="button" name="button">Learn More</button>
               </div>
             </div>
           </div>
@@ -144,7 +144,7 @@ include("config/conf.php");
               </div>
             </div>
           </div>
-          <button onclick="window.location='about.php'" class="btn btn-primary btn-round" type="button" name="button">Learn More</button>
+          <button onclick="window.location='academic.php'" class="btn btn-primary btn-round" type="button" name="button">Learn More</button>
         </div>
       </div>
       <div class="section headProf-section">

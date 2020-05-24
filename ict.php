@@ -88,8 +88,8 @@
                       <hr class="thin">
                       <q>Illuminate mind, Endorse innovation</q>
 </q>
-                  </div>
-              </div>
+        </div>
+      </div>
           </div>
         </div>
       </div>

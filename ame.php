@@ -89,9 +89,9 @@
           <div class="flex-box">
               <div class="flex-item fi-lg-3x fi-md-6x fi-sm-12x">
                   <div class="container-fluid">
-                      <div class="card text-center">
+                      <div class="text-center">
                           <div class="img-container">
-                          <img src="stock-img/drHteinWin.jpg" width="100%">
+                          <img src="stock-img/drHteinWin.jpg" alt="" style="width: 200px; height: 200px; border-radius: 50%;border: 1px solid #2CA8FF">
                       </div>
                       <br><b>Dr. Htein Win</b><br>
                       <label>Professor/Head</label>
@@ -100,9 +100,9 @@
               </div>
               <div class="flex-item fi-lg-3x fi-md-6x fi-sm-12x">
                   <div class="container-fluid">
-                      <div class="card text-center">
+                      <div class="text-center">
                           <div class="img-container">
-                          <img src="stock-img/drThantSinOo.jpg" width="100%">
+                          <img src="stock-img/drThantSinOo.jpg" alt="" style="width: 200px; height: 200px; border-radius: 50%;border: 1px solid #2CA8FF">
                       </div>
                       <br><b>Dr. Thant Sin Oo</b><br>
                       <label>Professor</label>
@@ -111,9 +111,9 @@
               </div>
               <div class="flex-item fi-lg-3x fi-md-6x fi-sm-12x">
                   <div class="container-fluid">
-                      <div class="card text-center">
+                      <div class="text-center">
                           <div class="img-container">
-                          <img src="stock-img/drMyoMinHtwe.jpg" width="100%">
+                          <img src="stock-img/drMyoMinHtwe.jpg" alt="" style="width: 200px; height: 200px; border-radius: 50%;border: 1px solid #2CA8FF">
                       </div>
                       <br><b>Dr. Myo Min Htwe</b><br>
                       <label>Professor</label>
@@ -122,9 +122,9 @@
               </div>
               <div class="flex-item fi-lg-3x fi-md-6x fi-sm-12x">
                   <div class="container-fluid">
-                      <div class="card text-center">
+                      <div class="text-center">
                           <div class="img-container">
-                          <img src="stock-img/drSawMyaNi.jpg" width="100%">
+                          <img src="stock-img/drSawMyaNi.jpg" alt="" style="width: 200px; height: 200px; border-radius: 50%;border: 1px solid #2CA8FF">
                       </div>
                       <br><b>Dr. Saw Mya Ni</b><br>
                       <label>Professor</label>
@@ -133,9 +133,9 @@
               </div>
               <div class="flex-item fi-lg-3x fi-md-6x fi-sm-12x">
                   <div class="container-fluid">
-                      <div class="card text-center">
+                      <div class="text-center">
                           <div class="img-container">
-                          <img src="stock-img/drMayThuZarMyint.jpg" width="100%">
+                          <img src="stock-img/drMayThuZarMyint.jpg" alt="" style="width: 200px; height: 200px; border-radius: 50%;border: 1px solid #2CA8FF">
                       </div>
                       <br><b>Dr. May Thu Zar Myint</b><br>
                       <label>Professor</label>
@@ -144,9 +144,9 @@
               </div>
               <div class="flex-item fi-lg-3x fi-md-6x fi-sm-12x">
                   <div class="container-fluid">
-                      <div class="card text-center">
+                      <div class="text-center">
                           <div class="img-container">
-                          <img src="stock-img/SoeLinHtike.jpg" width="100%">
+                          <img src="stock-img/SoeLinHtike.jpg" alt="" style="width: 200px; height: 200px; border-radius: 50%;border: 1px solid #2CA8FF">
                       </div>
                       <br><b>U Soe Lin Htike</b><br>
                       <label>Lecturer</label>
@@ -155,9 +155,9 @@
               </div>
               <div class="flex-item fi-lg-3x fi-md-6x fi-sm-12x">
                   <div class="container-fluid">
-                      <div class="card text-center">
+                      <div class="text-center">
                           <div class="img-container">
-                          <img src="stock-img/ThantZin.jpg" width="100%">
+                          <img src="stock-img/ThantZin.jpg" alt="" style="width: 200px; height: 200px; border-radius: 50%;border: 1px solid #2CA8FF">
                       </div>
                       <br><b>U Thant Zin</b><br>
                       <label>Lecturer</label>
@@ -166,9 +166,9 @@
               </div>
               <div class="flex-item fi-lg-3x fi-md-6x fi-sm-12x">
                   <div class="container-fluid">
-                      <div class="card text-center">
+                      <div class="text-center">
                           <div class="img-container">
-                          <img src="stock-img/ChawKayKhineLin.jpg" width="100%">
+                          <img src="stock-img/ChawKayKhineLin.jpg"alt="" style="width: 200px; height: 200px; border-radius: 50%;border: 1px solid #2CA8FF">
                       </div>
                       <br><b>Daw Chaw Kay Khine Lin</b><br>
                       <label>Lecturer</label>
@@ -177,9 +177,9 @@
               </div>
               <div class="flex-item fi-lg-3x fi-md-6x fi-sm-12x">
                   <div class="container-fluid">
-                      <div class="card text-center">
+                      <div class="text-center">
                           <div class="img-container">
-                          <img src="stock-img/ThidaSanNwe.jpg" width="100%">
+                          <img src="stock-img/ThidaSanNwe.jpg" alt="" style="width: 200px; height: 200px; border-radius: 50%;border: 1px solid #2CA8FF">
                       </div>
                       <br><b>Daw Thida San Nwe</b><br>
                       <label>Assistance Lecturer</label>
@@ -188,9 +188,9 @@
               </div>
               <div class="flex-item fi-lg-3x fi-md-6x fi-sm-12x">
                   <div class="container-fluid">
-                      <div class="card text-center">
+                      <div class="text-center">
                           <div class="img-container">
-                          <img src="stock-img/NguLayWah.jpg" width="100%">
+                          <img src="stock-img/NguLayWah.jpg" alt="" style="width: 200px; height: 200px; border-radius: 50%;border: 1px solid #2CA8FF">
                       </div>
                       <br><b>Daw Ngu Lay Wah</b><br>
                       <label>Demonstrator</label>

@@ -550,6 +550,48 @@ hr.mb-4{
   box-sizing: border-box;
 }
 
+.paper{
+  cursor: pointer;
+  font-size: 16px;
+  padding: 0px 30px;
+  color: #444;
+}
+.paper:hover{
+  color: #000;
+  text-decoration: none;
+}
+.paper-tick-box{
+	width: 25px;
+  height: 25px;
+  color: #2CA8FF;
+	display: inline-block;
+	margin-bottom: -6px;
+	background: url('../img/tick-box.png');
+	background-repeat: no-repeat;
+  background-size: 15px;
+	background-position: 50% 50%;
+   cursor: pointer;
+   padding: 0px 5px;
+}
+.sp-only{
+  display: none;
+}
+.img_conference{
+  margin-top: 15px;
+}
+table, td, th {  
+  border: 1px solid #ddd;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 10px;
+}
+
 @media (max-width: 980px) {
   .fi-md-12x {
     margin-bottom: 20px;
@@ -557,8 +599,13 @@ hr.mb-4{
   .text-md-center{
     text-align: center;
   }
+  .sp-only{
+    display: block;
+  }
   
-  
+  .pc-only{
+    display: none;
+  }
 }
 
 @media (max-width: 768px) {
@@ -634,6 +681,7 @@ hr.mb-4{
   .certificate-section .p-7{
     padding: 0px 20px;
   }
+  
 }
 @media (max-width: 1024px) {
   

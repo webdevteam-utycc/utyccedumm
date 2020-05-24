@@ -4,8 +4,8 @@
 
   $home = substr_count($url, 'index') > 0;
   $academic = substr_count($url, 'academic') > 0;
-  $faculty = substr_count($url, 'ict') > 0 || substr_count($url, 'ece') > 0 || substr_count($url, 'pre') > 0 || substr_count($url, 'ame') > 0;
-  $conference = substr_count($url, 'conference') > 0;
+  $faculty = substr_count($url, 'ict') > 0 || substr_count($url, 'ece') > 0 || substr_count($url, 'pre') > 0 || substr_count($url, 'ist') > 0 || substr_count($url, 'ame') > 0;
+  $conference = substr_count($url, 'urcse2020') > 0 || substr_count($url, 'papers') > 0;
   $news = substr_count($url, 'news') > 0;
   $gallery = substr_count($url, 'picture') > 0 || substr_count($url, 'video') > 0;
   $about = substr_count($url, 'about') > 0;
@@ -37,7 +37,7 @@
     </li>
     <li class="menu-item parent"><a href="#">Research/Laboratory</a>
       <ul class="submenu-item-group">
-        <li class="submenu-item"><a href="coming-soon.php">Master</a></li>
+        <li class="submenu-item"><a href="master.php">Master</a></li>
         <li class="submenu-item sub-parent"><a href="#" style="pointer-events:none;">Lab</a>
           <ul class="sub-child">
             <li class="submenu-item " style="padding: 0px 18px;"><a href="coming-soon.php">NLP</a></li>
@@ -57,10 +57,12 @@
         </li>
       </ul>
     </li>
-    <li class="menu-item <?php echo $conference ? 'active' : ''; ?>"><a href="conference/">Conference</a>
-
+    <li class="menu-item <?php echo $conference ? 'active' : ''; ?> parent"><a>Conference</a>
+      <ul class="submenu-item-group">
+        <li class="submenu-item sub-parent"><a href="urcse2020.php">The 1<sup>st</sup> URCSE 2020</a></li>
+        <li class="submenu-item"><a href="papers.php">Published Papers</a></li>
+      </ul>
     </li>
-
     <li class="menu-item <?php echo $news ? 'active' : ''; ?> parent"><a>Posts</a>
       <ul class="submenu-item-group">
         <li class="submenu-item sub-parent"><a href="news.php">News</a></li>
@@ -70,8 +72,8 @@
     </li>
     <li class="menu-item <?php echo $gallery ? 'active' : ''; ?> parent"><a>Gallery</a>
       <ul class="submenu-item-group">
-        <li class="submenu-item <?php echo $gallery ? 'active' : ''; ?> "><a href="picture.php">Pictures</a></li>
-        <li class="submenu-item "><a href="video.php">Videos</a></li>
+        <li class="submenu-item sub-parent"><a href="picture.php">Pictures</a></li>
+        <li class="submenu-item"><a href="coming-soon.php">Videos</a></li>
       </ul>
     </li>
     <li class="menu-item <?php echo $about ? 'active' : ''; ?>"><a href="about.php">About</a></li>
