@@ -553,7 +553,7 @@ hr.mb-4{
 .paper{
   cursor: pointer;
   font-size: 16px;
-  padding: 0px 30px;
+  padding: 0px 10px;
   color: #444;
 }
 .paper:hover{
@@ -652,7 +652,9 @@ th, td {
   .certificate-section .p-7{
     padding: 0px 20px;
   }
-
+  .paper{
+    font-size: 14px;
+  }
 }
 @media (max-width: 414px) {
   
@@ -667,6 +669,9 @@ th, td {
   .certificate-section .p-7{
     padding: 0px 20px;
   }
+  .paper{
+    font-size: 14px;
+  
 }
 @media (max-width: 320px) {
   
@@ -680,6 +685,10 @@ th, td {
   }
   .certificate-section .p-7{
     padding: 0px 20px;
+  }
+  .paper{
+    text-align: left;
+    font-size: 14px;
   }
   
 }
