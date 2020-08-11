@@ -1,4 +1,5 @@
 <?php
+die("mgmg");
   include("config/conf.php");
       $query = "SELECT COUNT(id) AS totalId,id FROM post";
       $prepare = $con -> prepare($query);
