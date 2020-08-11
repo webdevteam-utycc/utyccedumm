@@ -1,12 +1,12 @@
 <?php
-die("mgmg");
+
   include("config/conf.php");
       $query = "SELECT COUNT(id) AS totalId,id FROM post";
       $prepare = $con -> prepare($query);
       $prepare -> execute();
       $dataRow = $prepare -> fetch();
 
-      die($dataRow);
+
       $totalId = $dataRow['totalId'];
       $dividedPage = ceil($totalId/9);
       
