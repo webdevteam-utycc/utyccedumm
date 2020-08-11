@@ -133,7 +133,7 @@
                   <li>Collaboration UN/APCICT in the development of ICTD Primer Series</li>
                   <li>Mekong Skills to Work Project with USAID</li>
                   <li>Chosun University of Korea</li>
-                  <li>MoU with University of Okyama, Japan (in process)</li>
+                  <li>MoU with University of Okayama, Japan (in process)</li>
                 </ol>
               </div>
             </div>

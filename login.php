@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/custom-icon.css">
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="css/custom.css">
-    <title></title>
+    <title>UT-YCC | Login</title>
   </head>
   <body id="loginPage">
     <div class="loader">

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Tech Committee</title>
+<title>UT-YCC | Tech Committee</title>
 <?php include("includes/links.php") ?>
 </head>
 <body>

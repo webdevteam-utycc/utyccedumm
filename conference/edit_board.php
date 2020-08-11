@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Edit Board</title>
+<title>UT-YCC | Edit Board</title>
 <?php include("includes/links.php") ?>
 </head>
 <body>
