@@ -5,6 +5,7 @@
       $prepare -> execute();
       $dataRow = $prepare -> fetch();
 
+      die($dataRow);
       $totalId = $dataRow['totalId'];
       $dividedPage = ceil($totalId/9);
       
