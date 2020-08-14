@@ -1,15 +1,11 @@
 <?php
 
-$con = new PDO('mysql:host=localhost;dbname=ycc_base', "root", "");
-$con->exec("SET NAMES UTF-8;");
-$con->exec("SET character_set_results=UTF-8;");
-$con->exec("SET character_set_client=UTF-8;");
-$con->exec("SET character_set_connection=UTF-8;");
-$con->exec("SET collation_connection=UTF-8;");
-$query = "SELECT COUNT(id) AS totalId,id FROM post";
+include("config/conf.php");
+    $query = "SELECT COUNT(id) AS totalId,id FROM post";
 $prepare = $con->prepare($query);
 $prepare->execute();
 $dataRow = $prepare->fetch();
+ 
 $totalId = $dataRow['totalId'];
 $dividedPage = ceil($totalId / 9);
 
