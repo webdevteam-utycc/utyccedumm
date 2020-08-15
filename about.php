@@ -53,14 +53,16 @@
                 <h3>Mission</h3>
                 <hr class="thin">
                 <ul>
-                  <li>To provide skillful engineers and outstanding researchers</li>
-                  <li>To create broad access of engineering education opportunities with smart learning</li>
-                  <li>To be a national/regional/global level high ranking university</li>
+                  <li>Create the graduates with the highest personals and professionals standards</li>
+                  <li>Set quality teaching, learning and research environment to keep up with the dynamic changes; education and social transformation</li>
+                  <li>Promote the rank of university</li>
+                  <li>Make excellence contribution to country and society</li>
+                  <li>Pioneer in cyber education</li>
                 </ul>
                 <h3>Vision</h3>
                 <hr class="thin">
                 <ul>
-                  <li>To be a Globally Remarkable Research based University and Cyber University</li>
+                  <li>Estate of standard science, technology & engineering education which nurture students with intellectually, socially and personally enabled to sustain and develop the Society.</li>
                 </ul>
                 <h3>4 Faculties and 5 Academic Departments</h3>
                 <hr class="thin">
