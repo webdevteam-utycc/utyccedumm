@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec23f003-4c77-44ad-a3bd-73478e71f91d" name="Default Changelist" comment="" />
+    <list default="true" id="ec23f003-4c77-44ad-a3bd-73478e71f91d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/download/Authors-Approvement.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download/Paper-Format-IRCSE2021.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/nav-bar.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/nav-bar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing-5163.php" beforeDir="false" afterPath="$PROJECT_DIR$/testing-5163.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +66,8 @@
       <workItem from="1597338761444" duration="1067000" />
       <workItem from="1597431345338" duration="1217000" />
       <workItem from="1597460327065" duration="432000" />
-      <workItem from="1599624309580" duration="2437000" />
+      <workItem from="1599624309580" duration="3137000" />
+      <workItem from="1599637801706" duration="3065000" />
     </task>
     <servers />
   </component>
