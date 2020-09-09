@@ -271,6 +271,11 @@ hr.mb-4{
   width: 100%;
   height: 100%;
 }
+.page-cover-overlay-2 {
+  background: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  height: 100%;
+}
 .page-title {
   position: absolute;
   top: 50%;
@@ -385,6 +390,7 @@ hr.mb-4{
   background-image: url('../stock-img/pagecover.jpg');
   background-position: 80% 80%;
 }
+
 #facultyPage .page-cover {
   background-image: url('../stock-img/pagecover.jpg');
   background-position: 80% 80%;
@@ -397,6 +403,10 @@ hr.mb-4{
 }
 #ictPage .page-cover {
   background-image: url('../stock-img/pagecover.jpg');
+  background-position: 80% 80%;
+}
+#ictPage .page-cover-2 {
+  background-image: url('../stock-img/pagecover3.png');
   background-position: 80% 80%;
 }
 #istPage .page-cover {
@@ -657,53 +667,63 @@ th, td {
   }
 }
 @media (max-width: 414px) {
-  
-  .certificate-section{
+
+  .certificate-section {
     text-align: center;
     background-size: 100% 100%;
   }
-  .certificate-section h2{
+
+  .certificate-section h2 {
     font-size: 1.5rem;
     margin-top: -20px;
   }
-  .certificate-section .p-7{
-    padding: 0px 20px;
-  }
-  .paper{
-    font-size: 14px;
-  
-}
-@media (max-width: 320px) {
-  
-  .certificate-section{
-    text-align: center;
-    background-size: 100% 100%;
-  }
-  .certificate-section h2{
-    font-size: 1.5rem;
-    margin-top: -20px;
-  }
-  .certificate-section .p-7{
-    padding: 0px 20px;
-  }
-  .paper{
-    text-align: left;
-    font-size: 14px;
-  }
-  
-}
-@media (max-width: 1024px) {
-  
-  .certificate-section{
-    text-align: center;
-    background-size: 100% 100%;
-  }
-  .certificate-section h2{
-    font-size: 1.8rem;
-   
-  }
-  .certificate-section .p-7{
+
+  .certificate-section .p-7 {
     padding: 0px 20px;
   }
 
+  .paper {
+    font-size: 14px;
+
+  }
+
+  @media (max-width: 320px) {
+
+    .certificate-section {
+      text-align: center;
+      background-size: 100% 100%;
+    }
+
+    .certificate-section h2 {
+      font-size: 1.5rem;
+      margin-top: -20px;
+    }
+
+    .certificate-section .p-7 {
+      padding: 0px 20px;
+    }
+
+    .paper {
+      text-align: left;
+      font-size: 14px;
+    }
+
+  }
+  @media (max-width: 1024px) {
+
+    .certificate-section {
+      text-align: center;
+      background-size: 100% 100%;
+    }
+
+    .certificate-section h2 {
+      font-size: 1.8rem;
+
+    }
+
+    .certificate-section .p-7 {
+      padding: 0px 20px;
+    }
+
+  }
 }
