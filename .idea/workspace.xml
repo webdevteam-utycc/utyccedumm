@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec23f003-4c77-44ad-a3bd-73478e71f91d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/download/Authors-Approvement.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/download/Paper-Format-IRCSE2021.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/nav-bar.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/nav-bar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/conf.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/conf.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testing-5163.php" beforeDir="false" afterPath="$PROJECT_DIR$/testing-5163.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +65,9 @@
       <workItem from="1597431345338" duration="1217000" />
       <workItem from="1597460327065" duration="432000" />
       <workItem from="1599624309580" duration="3137000" />
-      <workItem from="1599637801706" duration="3065000" />
+      <workItem from="1599637801706" duration="4470000" />
+      <workItem from="1599652252814" duration="520000" />
+      <workItem from="1599755718068" duration="3118000" />
     </task>
     <servers />
   </component>
