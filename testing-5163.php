@@ -256,12 +256,12 @@
                             <div class="flex-item fi-lg-12x fi-md-12x fi-sm-12x committee_container">
                                 <div class="container-fluid card" style="background: linear-gradient(45deg,#4099ff,#73b4ff);">
                                     <div class="text-center">
-                                        <p style="font-size: 1.2rem;padding: 10px 0px;"><a href="org-committee.php"
+                                        <p style="font-size: 1.2rem;padding: 10px 0px;"><a href="testing-5164.php"
                                                                                            class="paper" style="color:#fff;">CONFERENCE
                                                 ORGANIZING COMMITTEE</a> <br><br>
-                                            <a href="editorial-board.php" class="paper" style="color:#fff;">STEERING COMMITTEE</a> <br><br>
+                                            <a href="testing-5165.php" class="paper" style="color:#fff;">STEERING COMMITTEE</a> <br><br>
                                             <a
-                                                    href="tech-committee.php" class="paper" style="color:#fff;">TECHCNICAL PROGRAM
+                                                    href="testing-5166.php" class="paper" style="color:#fff;">TECHCNICAL PROGRAM
                                                 COMMIITTEE</a></p>
 
                                     </div>
