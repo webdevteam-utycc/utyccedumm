@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec23f003-4c77-44ad-a3bd-73478e71f91d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/ircse1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ircse3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ircse1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/ircse2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing-5163.php" beforeDir="false" afterPath="$PROJECT_DIR$/testing-5163.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +35,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/download/ircse" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,8 +51,8 @@
       <recent name="$PROJECT_DIR$/stock-img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/download/ircse" />
       <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/download/ircse" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/stock-img" />
     </key>
@@ -73,7 +77,7 @@
       <workItem from="1599755718068" duration="5409000" />
       <workItem from="1599795212496" duration="4792000" />
       <workItem from="1599981220694" duration="41000" />
-      <workItem from="1600003246478" duration="2497000" />
+      <workItem from="1600003246478" duration="6040000" />
     </task>
     <servers />
   </component>
@@ -93,5 +97,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1597092824948" />
+    <state x="347" y="174" key="run.anything.popup" timestamp="1600012118264">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1600012118264" />
   </component>
 </project>
