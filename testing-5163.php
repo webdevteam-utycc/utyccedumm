@@ -157,10 +157,7 @@
                                     <tr>
                                         <td>Submission Deadline</td>
                                         <td><del>15<sup>th</sup> December 2019</del> </span>
-                                            <br>
-                                            20<sup>th</sup> December 2019
-                                            <br>
-                                            <span style="color:red">(extended)</span></td>
+                                            </td>
                                     </tr>
                                     <tr>
                                         <td>Acceptance Notification </td>

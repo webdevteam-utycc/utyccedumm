@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec23f003-4c77-44ad-a3bd-73478e71f91d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/download/ircse/Authors-Approvement.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/download/ircse/Paper-Format-IRCSE2021.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon_announcement.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ircse1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-img/page-cover4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/conference-right-cards.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/conference-right-cards.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-img/pagecover2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing-5163.php" beforeDir="false" afterPath="$PROJECT_DIR$/testing-5163.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +73,7 @@
       <workItem from="1599755718068" duration="5409000" />
       <workItem from="1599795212496" duration="4792000" />
       <workItem from="1599981220694" duration="41000" />
-      <workItem from="1600003246478" duration="1622000" />
+      <workItem from="1600003246478" duration="2497000" />
     </task>
     <servers />
   </component>
