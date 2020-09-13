@@ -31,16 +31,10 @@
                 <div class="container-fluid card"
                 >
                     <div class="text-center">
-                        <p style="font-size: 1.2rem;padding: 10px 0px;"><a href="testing-5164.php"
-                                                                           class="paper"
-                            >CONFERENCE
-                                ORGANIZING COMMITTEE</a> <br><br>
-                            <a href="testing-5165.php" class="paper">STEERING
-                                COMMITTEE</a> <br><br>
-                            <a
-                                href="testing-5166.php" class="paper">TECHCNICAL
-                                PROGRAM
-                                COMMIITTEE</a></p>
+                        <p style="font-size: 1.2rem;padding: 10px 0px;">
+                            <a href="testing-5164.php" style="text-decoration: none;"><span class="paper-tick-box"></span>CONFERENCE ORGANIZING COMMITTEE</a> <br><br>
+                            <a href="testing-5165.php" style="text-decoration: none;"><span class="paper-tick-box"></span>STEERING COMMITTEE</a> <br><br>
+                            <a href="testing-5166.php" style="text-decoration: none;"><span class="paper-tick-box"></span>TECHCNICAL PROGRAM COMMIITTEE</a></p>
 
                     </div>
                 </div>
