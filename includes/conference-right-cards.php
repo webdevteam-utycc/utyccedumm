@@ -28,13 +28,13 @@
         <h3></h3>
         <div class="flex-box">
             <div class="flex-item fi-lg-12x fi-md-12x fi-sm-12x committee_container">
-                <div class="container-fluid card"
+                <div class="container-fluid"
                 >
                     <div class="text-center">
                         <p style="font-size: 1.2rem;padding: 10px 0px;">
-                            <a href="testing-5164.php" style="text-decoration: none;"><span class="paper-tick-box"></span>CONFERENCE ORGANIZING COMMITTEE</a> <br><br>
-                            <a href="testing-5165.php" style="text-decoration: none;"><span class="paper-tick-box"></span>STEERING COMMITTEE</a> <br><br>
-                            <a href="testing-5166.php" style="text-decoration: none;"><span class="paper-tick-box"></span>TECHCNICAL PROGRAM COMMIITTEE</a></p>
+                           <a href="#" style="text-decoration: none;"><span class="paper-plus-box"></span>CONFERENCE ORGANIZING COMMITTEE</a> <br><br>
+                            <a href="#" style="text-decoration: none;"><span class="paper-plus-box"></span>STEERING COMMITTEE</a> <br><br>
+                            <a href="#" style="text-decoration: none;"><span class="paper-plus-box"></span>TECHCNICAL PROGRAM COMMIITTEE</a></p>
 
                     </div>
                 </div>
