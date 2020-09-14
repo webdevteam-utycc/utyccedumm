@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec23f003-4c77-44ad-a3bd-73478e71f91d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/plus-1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/conf.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/conf.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom-icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom-icon.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/conference-right-cards.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/conference-right-cards.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing-5163.php" beforeDir="false" afterPath="$PROJECT_DIR$/testing-5163.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/nav-bar.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/nav-bar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing-5166.php" beforeDir="false" afterPath="$PROJECT_DIR$/testing-5166.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing-5167.php" beforeDir="false" afterPath="$PROJECT_DIR$/ircse.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -48,9 +50,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/download/ircse" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/stock-img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -78,7 +80,10 @@
       <workItem from="1599795212496" duration="4792000" />
       <workItem from="1599981220694" duration="41000" />
       <workItem from="1600003246478" duration="7837000" />
-      <workItem from="1600055031792" duration="2214000" />
+      <workItem from="1600055031792" duration="3362000" />
+      <workItem from="1600058850583" duration="234000" />
+      <workItem from="1600062305586" duration="3482000" />
+      <workItem from="1600071438591" duration="4288000" />
     </task>
     <servers />
   </component>

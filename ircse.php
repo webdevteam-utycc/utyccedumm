@@ -42,7 +42,7 @@
     <div class="section">
         <div class="container">
             <div class="flex-box">
-                <div class="flex-item fi-lg-9x fi-md-9x fi-sm-12x">
+                <div class="flex-item fi-lg-8x fi-md-8x fi-sm-12x">
                     <!-- Start Call for Papers -->
                     <div class="container-fluid">
                         <div class="unit">
@@ -50,7 +50,7 @@
                             <p class="text-justify">The 1<sup>st</sup> International Research Conference on Science and
                                 Engineering (IRCSE) will be held at UTYCC, Pyin Oo Lwin, Myanmar on 11st January 2021
                                 organized by the University of Technology (Yatanarpon Cyber City) under the Ministry of
-                                Education. It is being organized in cooperation between University of Technology
+                                Education. It is being organized in cooperation with University of Technology
                                 (Yatanarpon Cyber City) and University of Miyazaki, Japan. It will cover the area of
                                 research and development in the fields of Science, Technology and Engineering. The
                                 conference offers a great opportunity to learn and share the knowledge, technological
@@ -105,7 +105,7 @@
                         </div>
                         <div class="unit">
                             <h3>Paper Submission Guidelines</h3>
-                            <p class="text-justify">Authors are invited to submit papers by 15st November, 2020.
+                            <p class="text-justify">Authors are invited to submit papers by 15<sup>th</sup> November, 2020.
                                 Submitted papers must be original and have not been previously accepted in any journal
                                 or publication elsewhere. The paper must be no more than 6 pages. The paper format and
                                 author's approvement can be download here.
@@ -115,7 +115,7 @@
                             <div class="container-fluid pc-only">
                                 <table>
                                     <tr>
-                                        <th style="color: red;text-align: center" colspan="2">IMPORTANT DATES</th>
+                                        <th style="color: red;text-align: center" colspan="2">IMPORTANT DATE</th>
                                         <th style="color: #2CA8FF;text-align: center" colspan="2">REGISTRATION FEES</th>
                                     </tr>
                                     <tr>

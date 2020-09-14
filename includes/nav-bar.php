@@ -59,7 +59,7 @@
     </li>
     <li class="menu-item <?php echo $conference ? 'active' : ''; ?> parent"><a>Conference</a>
       <ul class="submenu-item-group">
-        <li class="submenu-item sub-parent"><a href="coming-soon.php">IRCSE 2021</a></li>
+        <li class="submenu-item sub-parent"><a href="ircse.php">IRCSE 2021</a></li>
         <li class="submenu-item sub-parent"><a href="urcse2020.php">The 1<sup>st</sup> URCSE 2020</a></li>
         <li class="submenu-item"><a href="papers.php">Published Papers</a></li>
       </ul>

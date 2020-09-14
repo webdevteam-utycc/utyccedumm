@@ -161,6 +161,9 @@
 .ui-icons.ui-1_email-85:before {
     content: "\ea2a";
 }
+.ui-icons.ui-1_phone-86:before {
+    content: "\ea2a";
+}
 
 .ui-icons.arrows-1_cloud-download-93:before {
     content: "\ea21";
@@ -301,6 +304,7 @@
 .ui-icons.location_map-big:before {
     content: "\ea3d";
 }
+
 
 .ui-icons.location_pin:before {
     content: "\ea47";
