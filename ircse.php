@@ -115,7 +115,7 @@
                                             <br>
                                         </td>
                                         <td>Local Participant<br>
-                                            Fee Payment <Deadline></Deadline>
+                                            Fee Payment Deadline
                                         </td>
                                         <td> 60000 Ks <br> 5<sup>th</sup> January 2021</td>
                                     </tr>
@@ -177,7 +177,7 @@
                                     </tr>
                                     <tr>
                                         <td>Local Participant<br>
-                                            Date
+                                            Fee Payment Deadline
                                         </td>
                                         <td> 60000 Ks <br> 5<sup>th</sup> January 2021</td>
                                     </tr>
