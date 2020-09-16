@@ -24,19 +24,9 @@
             include('includes/nav-bar.php');
             ?>
 
-            <div class="flex-box page-title ">
-                <div class="flex-item fi-lg-2x fi-md-2x fi-sm-2">
-                    <img src="img/logo.png" altl="" class="utycc-container" >
-                </div>
-                <div class="flex-item fi-lg-8x fi-md-8x fi-sm-8x">
-                    <h2 class="ircse_ttl">The 1<sup>st</sup> International Research Conference on Science & Engineering</h2>
-                    <p class="ircse_sub_ttl">11<sup>st</sup> January, 2021</p>
-                    <p class="ircse_sub_ttl">University of Technology (Yatanarpon Cyber City), UTYCC, Myanmar
-                </div>
-                <div class="flex-item fi-lg-2x fi-md-2x fi-sm-2" >
-                    <img src="img/ircse3.png" altl="" class="ircse-container" >
-                </div>
-            </div>
+            <?php
+            include('includes/ircse/ircse-upper-page.php')
+            ?>
         </div>
     </div>
     <div class="section">
@@ -125,7 +115,7 @@
                                             <br>
                                         </td>
                                         <td>Local Participant<br>
-                                            Date
+                                            Fee Payment <Deadline></Deadline>
                                         </td>
                                         <td> 60000 Ks <br> 5<sup>th</sup> January 2021</td>
                                     </tr>
@@ -231,7 +221,7 @@
                     </div>
 
                 </div>
-                <?php include('includes/conference-right-cards.php'); ?>
+                <?php include('includes/ircse/conference-right-cards.php'); ?>
             </div>
         </div>
     </div>

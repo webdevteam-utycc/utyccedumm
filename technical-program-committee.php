@@ -8,9 +8,9 @@
     <link rel="stylesheet" href="css/custom-icon.css">
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="css/custom.css">
-    <title>UT-YCC | Conference / The IRCSE 2021</title>
+    <title>UT-YCC | Conference / The 1st IRCSE 2020</title>
 </head>
-<body id="ictPage">
+<body id="ircse_Page">
 <div class="loader">
     <span class="circle1"></span>
     <span class="circle2"></span>
@@ -18,22 +18,20 @@
     <span class="circle4"></span>
 </div>
 <div class="wrapper">
-    <div class="page-cover page-cover-2">
-        <div class="page-cover-overlay-2">
+    <div class="page-cover">
+        <div class="page-cover-overlay">
             <?php
             include('includes/nav-bar.php');
             ?>
-            <div class="page-title">
-                <h1>Conference</h1>
-                <label class="page-location"><a href="index.php">Home</a> / <a href="#">Conference</a> / IRCSE
-                    2021</label>
-            </div>
+            <?php
+            include('includes/ircse/ircse-upper-page.php')
+            ?>
         </div>
     </div>
     <div class="section">
         <div class="container">
             <div class="flex-box">
-                <div class="flex-item fi-lg-9x fi-md-9x fi-sm-12x">
+                <div class="flex-item fi-lg-8x fi-md-8x fi-sm-12x">
                     <!-- Start Technical Committee -->
                     <div class="container-fluid">
                         <h3>Technical Program Committee</h3>
@@ -138,7 +136,7 @@
                     </div>
                     <!-- End Technical Committee -->
                 </div>
-                <?php include('includes/conference-right-cards.php'); ?>
+                <?php include('includes/ircse/conference-right-cards.php'); ?>
             </div>
         </div>
     </div>

@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec23f003-4c77-44ad-a3bd-73478e71f91d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/includes/ircse/ircse-upper-page.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/conf.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/conf.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom-icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom-icon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/conference-right-cards.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/conference-right-cards.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/nav-bar.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/nav-bar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing-5166.php" beforeDir="false" afterPath="$PROJECT_DIR$/testing-5166.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing-5167.php" beforeDir="false" afterPath="$PROJECT_DIR$/ircse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/conference-right-cards.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/ircse/conference-right-cards.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ircse.php" beforeDir="false" afterPath="$PROJECT_DIR$/ircse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing-5166.php" beforeDir="false" afterPath="$PROJECT_DIR$/technical-program-committee.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/UTYCC/React by Sir.Ei Maung/hello-redux1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,13 +47,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/includes/ircse" />
+      <recent name="$PROJECT_DIR$/stock-img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/download/ircse" />
-      <recent name="$PROJECT_DIR$/stock-img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/stock-img" />
     </key>
   </component>
@@ -83,7 +82,8 @@
       <workItem from="1600055031792" duration="3362000" />
       <workItem from="1600058850583" duration="234000" />
       <workItem from="1600062305586" duration="3482000" />
-      <workItem from="1600071438591" duration="4288000" />
+      <workItem from="1600071438591" duration="4994000" />
+      <workItem from="1600237403636" duration="4083000" />
     </task>
     <servers />
   </component>
@@ -91,14 +91,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1599981260133">
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600081413055">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1599981260133" />
-    <state x="478" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1599796839320">
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1600081413055" />
+    <state x="478" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1600241652093">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="478" y="323" width="399" height="156" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1599796839320" />
+    <state x="478" y="323" width="399" height="156" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1600241652093" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1597092824948">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

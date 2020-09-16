@@ -34,7 +34,7 @@
                         <p style="font-size: 1.2rem;padding: 10px 0px;">
                            <a href="#" style="text-decoration: none;"><span class="paper-plus-box"></span>CONFERENCE ORGANIZING COMMITTEE</span> </a> <br><br>
                             <a href="#" style="text-decoration: none;"><span class="paper-plus-box"></span>CONFERENCE STEERING COMMITTEE</a> <br><br>
-                            <a href="#" style="text-decoration: none;"><span class="paper-plus-box"></span>TECHCNICAL PROGRAM COMMIITTEE</a></p>
+                            <a href="technical-program-committee.php" style="text-decoration: none;"><span class="paper-plus-box"></span>TECHCNICAL PROGRAM COMMIITTEE</a></p>
 
                     </div>
                 </div>
