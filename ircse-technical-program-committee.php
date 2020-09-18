@@ -38,7 +38,6 @@
                         <div class="flex-box">
                             <div class="flex-item fi-lg-12x fi-md-12x fi-sm-12x">
                                 <div class="container-fluid">
-                                    <h4 style="padding: 0px 10px;">Technical Team</h4>
                                     <ul>
                                         <li>Prof. Ye Kyaw Thu, Visiting Professor of Language & Semantic Technology Research Team (LST), Artificial Intelligence Research Unit (AINRU), National Electronic & Computer Technology Center (NECTEC), Thailand</li>
                                         <li>Prof. Nobuo Funabiki, Professor, Dept. of Electrical and Communication Engineering, Okayama University, Japan</li>
@@ -65,7 +64,7 @@
                                         <li>Asso. Prof. Morihiro KUGA, Computer Science and Electrical Engineering Faculty of Engineering Graduate School of Science and Technology Kumamoto University, Japan</li>
                                         <li>Asso. Prof. Motoki AMAGASAKI, Department of Computer Science and Electrical Engineering Faculty of Engineering Graduate School of Science and Technology, Kumamoto University, Japan</li>
                                         <li>Asso. Prof. Qian ZHAO, School of Information Engineering, Kyushu Institute of Technology, Kyushu Institute of Technology, Japan</li>
-                                        <li>Prof. Htar Htar Saw Lwin, University of Computer Studies, Yangon</li>
+                                        <li>Prof. Htar Htar Lwin, University of Computer Studies, Yangon</li>
                                         <li>Prof. Aye Wai Oo, University of Technology (Yatanarpon Cyber City</li>
                                         <li>Prof. Cho Me Me Maung, University of Technology (Yatanarpon Cyber City)</li>
                                         <li>Prof. Aye Min Myat, University of Technology (Yatanarpon Cyber City)</li>

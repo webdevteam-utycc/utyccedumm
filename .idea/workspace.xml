@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec23f003-4c77-44ad-a3bd-73478e71f91d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/miyazaki.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ircse-technical-program-committee.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/conf.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/conf.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/ircse/conference-right-cards.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/ircse/conference-right-cards.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/ircse/ircse-upper-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/ircse/ircse-upper-page.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ircse.php" beforeDir="false" afterPath="$PROJECT_DIR$/ircse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical-program-committee.php" beforeDir="false" afterPath="$PROJECT_DIR$/ircse-conference-steering-committee.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +39,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/UTYCC/React by Sir.Ei Maung/hello-redux1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,7 +87,10 @@
       <workItem from="1600058850583" duration="234000" />
       <workItem from="1600062305586" duration="3482000" />
       <workItem from="1600071438591" duration="4994000" />
-      <workItem from="1600237403636" duration="4487000" />
+      <workItem from="1600237403636" duration="7027000" />
+      <workItem from="1600360856360" duration="1131000" />
+      <workItem from="1600369374754" duration="3891000" />
+      <workItem from="1600405805397" duration="649000" />
     </task>
     <servers />
   </component>

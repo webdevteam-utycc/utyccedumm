@@ -134,7 +134,7 @@
 
                                     </tr>
                                     <tr>
-                                        <td>Conference Dates</td>
+                                        <td>Conference Date</td>
                                         <td>11<sup>st</sup> January 2021</td>
                                         <td>Account</td>
                                         <td> DAW THU ZAR TINT
@@ -165,7 +165,7 @@
                                         <td> 5<sup>th</sup> January 2021</td>
                                     </tr>
                                     <tr>
-                                        <td>Conference Dates</td>
+                                        <td>Conference Date</td>
                                         <td>11<sup>st</sup> January 2021</td>
                                     </tr>
                                 </table>
