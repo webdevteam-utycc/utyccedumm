@@ -40,7 +40,6 @@
                                 <div class="container-fluid">
                                     <ul>
                                         <li>Dr. Ikenoue, President, University of Miyazaki, Japan</li>
-                                        <li>Dr. Tsuyomu Ikenoue, President</li>
                                         <li>Prof. Pyke Tin, University of Miyazaki, Japan</li>
                                         <li>Prof. Aung Win, Rector, University of Technology (Yatanarpon Cyber City)
                                         </li>

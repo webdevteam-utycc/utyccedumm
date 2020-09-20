@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec23f003-4c77-44ad-a3bd-73478e71f91d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/miyazaki.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ircse-technical-program-committee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ircse4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ircse5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ircse_correct (12-9-20_1-30pm) Transparent (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ircse_correct (12-9-20_1-30pm) with White BG-01 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/ircse/ircse-upper-page-test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ircse-organizing-program-committee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ircse-test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/conf.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/conf.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/ircse/conference-right-cards.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/ircse/conference-right-cards.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/ircse/ircse-upper-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/ircse/ircse-upper-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ircse.php" beforeDir="false" afterPath="$PROJECT_DIR$/ircse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/technical-program-committee.php" beforeDir="false" afterPath="$PROJECT_DIR$/ircse-conference-steering-committee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ircse-conference-steering-committee.php" beforeDir="false" afterPath="$PROJECT_DIR$/ircse-conference-steering-committee.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +54,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/includes/ircse" />
-      <recent name="$PROJECT_DIR$/stock-img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/includes/ircse" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/download/ircse" />
+      <recent name="$PROJECT_DIR$/stock-img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/includes/ircse" />
       <recent name="$PROJECT_DIR$/stock-img" />
     </key>
   </component>
@@ -90,7 +94,8 @@
       <workItem from="1600237403636" duration="7027000" />
       <workItem from="1600360856360" duration="1131000" />
       <workItem from="1600369374754" duration="3891000" />
-      <workItem from="1600405805397" duration="649000" />
+      <workItem from="1600405805397" duration="1876000" />
+      <workItem from="1600579020070" duration="2373000" />
     </task>
     <servers />
   </component>
