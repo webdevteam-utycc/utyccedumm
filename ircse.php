@@ -38,7 +38,7 @@
                         <div class="unit">
                             <h3>Call for Papers</h3>
                             <p class="text-justify">The 1<sup>st</sup> International Research Conference on Science and
-                                Engineering (IRCSE) will be held at UTYCC, Pyin Oo Lwin, Myanmar on 11st January 2021
+                                Engineering (IRCSE) will be held at UTYCC, Pyin Oo Lwin, Myanmar on 11th January 2021
                                 organized by the University of Technology (Yatanarpon Cyber City) under the Ministry of
                                 Education. It is being organized in cooperation with University of Technology
                                 (Yatanarpon Cyber City) and University of Miyazaki, Japan. It will cover the area of
@@ -135,7 +135,7 @@
                                     </tr>
                                     <tr>
                                         <td>Conference Date</td>
-                                        <td>11<sup>st</sup> January 2021</td>
+                                        <td>11<sup>th</sup> January 2021</td>
                                         <td>Account</td>
                                         <td> DAW THU ZAR TINT
                                             <br>KBZ (10 430 199 914 344 501)
@@ -166,7 +166,7 @@
                                     </tr>
                                     <tr>
                                         <td>Conference Date</td>
-                                        <td>11<sup>st</sup> January 2021</td>
+                                        <td>11<sup>th</sup> January 2021</td>
                                     </tr>
                                 </table>
                                 <br>

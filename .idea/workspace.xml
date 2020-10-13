@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec23f003-4c77-44ad-a3bd-73478e71f91d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/ircse4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ircse5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ircse_correct (12-9-20_1-30pm) Transparent (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ircse_correct (12-9-20_1-30pm) with White BG-01 (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/ircse/ircse-upper-page-test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ircse-organizing-program-committee.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ircse-test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newhome.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/ircse/conference-right-cards.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/ircse/conference-right-cards.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/ircse/ircse-upper-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/ircse/ircse-upper-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ircse-conference-steering-committee.php" beforeDir="false" afterPath="$PROJECT_DIR$/ircse-conference-steering-committee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ircse.php" beforeDir="false" afterPath="$PROJECT_DIR$/ircse.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +33,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/UTYCC/React by Sir.Ei Maung/api" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -95,7 +86,10 @@
       <workItem from="1600360856360" duration="1131000" />
       <workItem from="1600369374754" duration="3891000" />
       <workItem from="1600405805397" duration="1876000" />
-      <workItem from="1600579020070" duration="2373000" />
+      <workItem from="1600579020070" duration="3040000" />
+      <workItem from="1600746709010" duration="104000" />
+      <workItem from="1602340664030" duration="716000" />
+      <workItem from="1602560173906" duration="306000" />
     </task>
     <servers />
   </component>
@@ -103,10 +97,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600081413055">
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600746809882">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1600081413055" />
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1600746809882" />
     <state x="478" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1600241652093">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
