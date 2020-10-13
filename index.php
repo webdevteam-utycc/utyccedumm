@@ -196,7 +196,7 @@ include("config/conf.php");
                         <ul class="icon-ul">
                             <li><span class="ui-icons users_single-02"></span>Dr. Aung Win</li>
                             <br>
-                            <li><span class="ui-icons business_briefcase-24"></span>Rector (Acting), University of
+                            <li><span class="ui-icons business_briefcase-24"></span>Rector, University of
                                 Technology (Yatanarpon Cyber City)
                             </li>
                             <br>
